@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 个人笔记
 subtitle: ''
-description: ''
+description: '个人笔记小站'
 keywords:
-author: John Doe
-language: en
+author: lipan 
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://note.ruo-shui.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: geek
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
