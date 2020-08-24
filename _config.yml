@@ -104,4 +104,8 @@ theme: geek
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  respository:
+    github: https://github.com/rikei/note.git
+    server: git@zaqla.com:/home/git/repos/note.git
+  branch: master
